@@ -21,6 +21,8 @@ This project examines the relationship between learning mentality and network st
 - If we create a more parsimonious model by creating aggregate variables for LearningMentality and NetworkStrength, we observe that LearningMentality has a more substantial relationship with CareerSatisfaction than NetworkStrength.
 - Using k-means clustering, we find that networking learners appear to have the highest career satisfaction, followed by recluse learners, networking moderate-learners, then erratic networking anti-learners.
 
+See blog post for more storytelling https://medium.com/@ncnakamine/to-learn-or-to-network-880c2504dbbf
+
 # Citations
 - Udacity Data Science Nanodegree Program https://www.udacity.com/course/data-scientist-nanodegree--nd025
 - General Assembly Data Science https://generalassemb.ly/san-francisco/data-science https://github.com/ncnakamine/DS-SF-34
