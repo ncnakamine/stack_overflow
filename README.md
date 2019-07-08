@@ -1,5 +1,6 @@
 
--	This project examines the relationship between learning mentality and network strength for developer career satisfaction. Basic statistics, OLS regression, and k-means clustering are used to answer the following questions: 
+# Summary
+This project examines the relationship between learning mentality and network strength for developer career satisfaction. Basic statistics, OLS regression, and k-means clustering are used to answer the following questions: 
 o	To what extent do full time developers have a learning mentality? 
 o	To what extent do full time developers have a strong social network with other developers? 
 o	How do individual learning mentality and social network strength relate to career satisfaction? 
