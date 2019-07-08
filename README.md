@@ -17,10 +17,9 @@ This project examines the relationship between learning mentality and network st
 - Learning mentality variables are relatively left skewed with more full time employed developer respondents favoring a learning mentality.
 - NetworkStrength variables are relatively normally distributed when compared to LearningMentality variables, indicating less existence of strong networks than existence of learning mentality amongst respondents.
 - LearningMentality variables are relatively more correlated with one another than NetworkStrength variables.
-- With OLS regression, we observe that LearningMentality AND NetworkStrength variables are important for CareerSatisfaction.
+- With OLS regression, we observe that LearningMentality and NetworkStrength variables are both important for CareerSatisfaction.
 - If we create a more parsimonious model by creating aggregate variables for LearningMentality and NetworkStrength, we observe that LearningMentality has a more substantial relationship with CareerSatisfaction than NetworkStrength.
-- Clustering LearningMentality and NetworkStrength allows us to label users according to these two aggregated dimensions.
-- Networking learners appear to have the highest career satisfaction, followed by recluse learners, networking moderate-learners, then erratic networking anti-learners.
+- Using k-means clustering, we find that networking learners appear to have the highest career satisfaction, followed by recluse learners, networking moderate-learners, then erratic networking anti-learners.
 
 # Citations
 - Udacity Data Science Nanodegree Program https://www.udacity.com/course/data-scientist-nanodegree--nd025
