@@ -5,7 +5,7 @@ This project examines the relationship between learning mentality and network st
 - To what extent do full time developers have a strong social network with other developers? 
 - How do individual learning mentality and social network strength relate to career satisfaction? 
 
-# Prerequisite
+# Prerequisites
 o	Anaconda 3 https://www.anaconda.com/distribution/
 
 # Files  
